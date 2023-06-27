@@ -1,4 +1,4 @@
-<h1 align="center">Ola, Bem vindo a todos! Eu sou Lucas Viegas</h1>
+<h2 align="center">Ola, Bem vindo a todos! Eu sou Lucas Viegas</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viegaslucas&label=Profile%20views&color=0e75b6&style=flat" alt="viegaslucas" / > </p>
 
 - 🌿 Sou desenvolvedor **Front-End**
