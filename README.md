@@ -1,15 +1,13 @@
-<h1 align="center">Olá! Eu sou Lucas Viegas</h1>
-<h3 align="center">Teste</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viegaslucas&label=Profile %20views&color=0e75b6&style=flat" alt="viegaslucas" /> </p>
+<h1 align="center">Ola, Bem vindo a todos! Eu sou Lucas Viegas</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viegaslucas&label=Profile%20views&color=0e75b6&style=flat" alt="viegaslucas" / > </p>
 
 - 🌿 Sou desenvolvedor **Front-End**
 
 - 🌱 Atualmente estudo **JavaScript e ReactJS**
 
-<h3 align="left">Conecte-se com eu:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/lucasmviegas/" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left" >
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucasmviegas/" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.
 
 
 
@@ -18,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viegaslucas&show_icons=true&locale=en&layout=compact" alt="viegaslucas" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=viegaslucas&show_icons=true&locale=en" alt="viegaslucas" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viegaslucas&" alt="viegaslucas" /></p>
