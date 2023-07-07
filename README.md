@@ -1,18 +1,11 @@
-<h1 align="center">Olá, bem vindo a todos!! Eu sou o Lucas Viegas</h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viegaslucas&label=Profile%20views&color=0e75b6&style=flat" alt="viegaslucas" /> </p>
 
-- 🔭 Atualmente estudo **JavaScript e RectJS**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=37&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Viegas;Tenho+19+anos+de+idade;Sou+de+São+Paulo;Estou+em+busca+da+minha+primeira+graduação;Sejam+todos+Bem-vindos!+:=])](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucasmviegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmviegas" height="30" width="40" /></a>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViegasLucas&bg_color=000000&color=9400d3&line=191970&point=00008b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viegaslucas&show_icons=true&locale=en&layout=compact" alt="viegaslucas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viegaslucas&show_icons=true&locale=en" alt="viegaslucas" /></p>
+<div align="center">  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViegasLucas&show_icons=true&count_private=true&hide_border=true&title_color=9400d3&icon_color=&text_color=fff&bg_color=000" alt="Lucas Viega github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegasLucas&layout=compact&hide_border=true&title_color=9400D3&text_color=fff&bg_color=000" />
+</div>
