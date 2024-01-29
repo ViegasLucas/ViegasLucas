@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Viegas;Tenho+19+anos+de+idade;Sou+de+São+Paulo;Estou+em+busca+da+minha+primeira+oportunidade+na+área+da+programação;Sejam+todos+Bem-vindos!+=])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Viegas;Sou+de+São+Paulo,Tenho+19+anos+de+idade;Busco+meu+primeiro+trabalho+com+programação;Sejam+todos+Bem-vindos+ao+meu+perfil!+=])](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViegasLucas&bg_color=000000&color=9400d3&line=191970&point=00008b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
